@@ -1,17 +1,5 @@
 ## Oiii! Eu sou o Ednis Lyra. Seja Bem-Vindo!
 
-Developer Student | Java | SpringBoot | HTML | CSS | JavaScript
-
-Estudante de TI através das plataformas EAD UDEMY e DevSuperior, busco novos conhecimentos para uma atuação sólida e consistente no mercado como desenvolvedor.
-
-*Curso de Algoritmos e lógica de programação baseado nas principais linguagens do mercado como C, C++, C#, Java e Python;
-
-*Cursando linguagem de programação Java e OOP, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, MySQL, MongoDB;
-
-*Cursando HTML5, CSS3 e Javascript.
-
-Graduado em Administração de Empresas com ênfase em Marketing, Motivado por novos desafios, busca de novos conhecimentos. Em transição para a área de IT.
-
 <div>
   <a href="https://github.com/ednislyra">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ednislyra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
