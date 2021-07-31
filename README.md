@@ -1,4 +1,4 @@
-## Oiii! Eu sou o Ednis Lyra. Seja Bem-Vindo!
+## Hello! I'm Ednis Lyra here. Your Welcome to my GitHub repository!
 
 <div>
   <a href="https://github.com/ednislyra">
