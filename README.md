@@ -2,6 +2,7 @@
 
 Sou estudante de TI através das plataformas EAD UDEMY e DevSuperior, graduado em Administração de Empresas com ênfase em Marketing, motivado por novos desafios e busca de novos conhecimentos.
 
+##
 <div>
   <a href="https://github.com/ednislyra">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ednislyra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -20,8 +21,6 @@ Sou estudante de TI através das plataformas EAD UDEMY e DevSuperior, graduado e
   <img align="center" alt="ednis-Bs" height="30" width="80" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 </div>
   
-  
-
 ##
 <div>
   <a href="https://www.linkedin.com/in/ednislyra" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
