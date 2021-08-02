@@ -1,4 +1,6 @@
-## Hello! I'm Ednis Lyra here. Your Welcome to my GitHub repository!
+## Olá! Sou o Ednis Lyra. Seja bem-vindo! 
+
+Sou estudante de TI através das plataformas EAD UDEMY e DevSuperior, graduado em Administração de Empresas com ênfase em Marketing, motivado por novos desafios e busca de novos conhecimentos.
 
 <div>
   <a href="https://github.com/ednislyra">
